@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T14:51:18.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="CeiJz3wzTgDFGfOP4KNO" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T17:57:49.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d_MihTDwdWUydofza6xR" version="22.0.0" type="github">
   <diagram id="Pl6PXGROlhjDuTrjTt2r" name="Страница — 1">
-    <mxGraphModel dx="1877" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,12 +248,6 @@
         </mxCell>
         <mxCell id="-dLsaIZ4ZWtZbaKVqyiR-69" value="Сотрудник" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="450" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="-dLsaIZ4ZWtZbaKVqyiR-80" value="0, N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="445" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-dLsaIZ4ZWtZbaKVqyiR-81" value="0, N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="445" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-dLsaIZ4ZWtZbaKVqyiR-82" value="0, N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="63" y="360" width="60" height="30" as="geometry" />
